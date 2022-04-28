@@ -1,4 +1,4 @@
-# KiCad Exposed Tracks
+# KiCad Expose Tracks
 
 Expose copper tracks in kicad
 
